@@ -1,3 +1,3 @@
 # Sudoku
-Just Sudoku
-\n Uses a basic backtracking algorithm to search for solutions
+### Just Sudoku
+Uses a basic backtracking algorithm to search for solutions
